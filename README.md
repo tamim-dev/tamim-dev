@@ -1,7 +1,3 @@
-<img align="right" height="220" src="https://avatars.githubusercontent.com/u/118482461?v=4"  />
-
-###
-
 <h1 align="left">Hi 👋 I am Tamim</h1>
 
 ###
