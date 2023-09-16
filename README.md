@@ -1,4 +1,4 @@
-<img align="right" height="171" src="https://avatars.githubusercontent.com/u/118482461?v=4"  />
+<img align="right" height="220" src="https://avatars.githubusercontent.com/u/118482461?v=4"  />
 
 ###
 
@@ -68,7 +68,7 @@
 
 <br clear="both">
 
-<h3 align="left">Social Media :</h3>
+<h3 align="left">Contact :</h3>
 
 ###
 
