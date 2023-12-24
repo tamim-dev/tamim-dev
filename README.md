@@ -20,6 +20,13 @@
 
 <br clear="both">
 
+###
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tamim-dev&label=Profile%20views&color=0e75b6&style=flat" alt="tamim-dev" /> </p>
+
+###
+
 <h3 align="left">Skills :</h3>
 
 ###
@@ -38,8 +45,6 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="25" alt="redux logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="25" alt="firebase logo"  />
-  <img width="15" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
   <img width="15" />
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="25" alt="sass logo"  />
   <img width="15" />
