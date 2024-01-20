@@ -1,12 +1,12 @@
-<h1 align="left">Hi 👋 I am Tamim</h1>
+<h1 align="left">Hello, I am a marn stack developer</h1>
 
 ###
 
-<h4 align="left">Javascript || React js ||  Node js || Express || MongoDB ||  Firebase</h4>
+<h3 align="left">MARN Stack Developer || Full stack developer || Javascript || React js || Redux js || Node js || Express || MongoDB || Firebase</h3>
 
 ###
 
-<p align="left">I’m currently learning MARN Stack Development</p>
+<h6 align="left">I’m currently learning MARN Stack Development and growing my skills and experience.</h6>
 
 ###
 
