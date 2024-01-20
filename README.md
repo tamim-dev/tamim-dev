@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="left">I’m currently learning MARN Stack Development and growing my skills and experience.</h6>
+<h4 align="left">I’m currently learning MARN Stack Development and growing my skills and experience.</h4>
 
 ###
 
