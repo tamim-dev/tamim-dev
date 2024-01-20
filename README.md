@@ -1,8 +1,8 @@
-<h1 align="left">Hello, I am a mern stack developer</h1>
+<h1 align="left">Hello, I am a MERN Stack Developer</h1>
 
 ###
 
-<h3 align="left">MERN Stack Developer || Full stack developer || Javascript || React js || Redux js || Node js || Express || MongoDB || Firebase</h3>
+<h3 align="left">MERN Stack Developer || Full Stack Developer || JavaScript || React js || Redux js || Node js || Express || MongoDB || Firebase</h3>
 
 ###
 
@@ -85,9 +85,6 @@
   </a>
   <a href="https://www.facebook.com/TanvirMahmudTamim.5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="tamimtanvirmahmud@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="+8801772280747" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
