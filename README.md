@@ -1,8 +1,8 @@
-<h1 align="left">Hello, I am a MERN Stack Developer</h1>
+<h1 align="left">Hello, I am a Frontend Developer</h1>
 
 ###
 
-<h3 align="left">MERN Stack Developer || Full Stack Developer || JavaScript || React js || Redux js || Node js || Express || MongoDB || Firebase</h3>
+<h3 align="left">Frontend Developer || Javascript || React Js || Next Js || Redux || Node js || Express || MongoDB || Firebase</h3>
 
 ###
 
