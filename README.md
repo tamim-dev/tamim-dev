@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Frontend Developer || Javascript || React Js || Next Js || Redux || Node js || Express || MongoDB || Firebase</h3>
+<h3 align="left">Frontend Developer | Micro Frontend Developer | JavaScript | TypeScript | React Js | Next Js | Redux | Node js | Express | MongoDB</h3>
 
 ###
 
