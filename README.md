@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  Focused on building scalable enterprise web applications, design systems, and maintainable frontend architectures using <b>React</b>, <b>Next.js</b>, <b>Angular</b> and <b>TypeScript</b>[cite: 1].
+  Focused on building scalable enterprise web applications, design systems, and maintainable frontend architectures using <b>React</b>, <b>Next.js</b>, <b>Angular</b> and <b>TypeScript</b>.
 </p>
 
 <p align="center">
@@ -27,39 +27,39 @@
 
 ### 👨‍💻 About Me
 
-* Currently working as a **Software Engineer L-1** at **Shadhin Lab**, building enterprise-level applications and scalable **Design Systems** using **React**[cite: 1].
-* Over **2+ years of experience** developing modular frontends, multi-tenant platforms, and reusable component libraries[cite: 1].
-* Experienced in **Micro Frontend architecture**, complex state management (**Redux**, **Zustand**, **React Query**), and schema-based validation (**React Hook Form + Zod**)[cite: 1].
+* Currently working as a **Software Engineer L-1** at **Shadhin Lab**, building enterprise-level applications and scalable **Design Systems** using **React**.
+* Over **2+ years of experience** developing modular frontends, multi-tenant platforms, and reusable component libraries.
+* Experienced in **Micro Frontend architecture**, complex state management (**Redux**, **Zustand**, **React Query**), and schema-based validation (**React Hook Form + Zod**).
 * Expanding backend capabilities with **Node.js, Express, and MongoDB (MERN)**.
 
 ---
 
 ### 💼 Professional Experience
 
-**Software Engineer L-1** | **Shadhin Lab** *(Present)*[cite: 1]
-* Developing and maintaining enterprise-grade **Design Systems** and reusable UI component libraries using **React**[cite: 1].
+**Software Engineer L-1** | **Shadhin Lab** *(Present)*
+* Developing and maintaining enterprise-grade **Design Systems** and reusable UI component libraries using **React**.
 * Building scalable web applications with **React** **Next.js** and **Angular**, focusing on clean architecture, performance optimization, and accessibility.
 
-**Frontend Developer** | **Aspire Tech** *(Apr 2024 – Apr 2026)*[cite: 1]
-* Architected and developed a multi-tenant **Cyber Security LMS** using **Micro Frontend** architecture, featuring role-based access control, client/MSP onboarding, and analytics dashboards[cite: 1].
-* Built a **Vulnerability Assessment & Penetration Testing (VAPT)** platform with real-time reporting and modular UI components[cite: 1].
-* Developed e-commerce flows and email/SMS campaign management systems using **React, Next.js, TypeScript, Redux, Zustand, and React Query**[cite: 1].
-* Improved bundle load times using **Webpack** and **Vite**, and enforced type-safe form validation using **Zod** and **React Hook Form**[cite: 1].
+**Frontend Developer** | **Aspire Tech** *(Apr 2024 – Apr 2026)*
+* Architected and developed a multi-tenant **Cyber Security LMS** using **Micro Frontend** architecture, featuring role-based access control, client/MSP onboarding, and analytics dashboards.
+* Built a **Vulnerability Assessment & Penetration Testing (VAPT)** platform with real-time reporting and modular UI components.
+* Developed e-commerce flows and email/SMS campaign management systems using **React, Next.js, TypeScript, Redux, Zustand, and React Query**.
+* Improved bundle load times using **Webpack** and **Vite**, and enforced type-safe form validation using **Zod** and **React Hook Form**.
 
-**Frontend Developer Intern** | **Synex Digital** *(Nov 2023 – Mar 2024)*[cite: 1]
-* Built SEO-friendly e-commerce applications and a **Coaching Center Exam Management System** using **Next.js, React, and Redux**[cite: 1].
-* Crafted responsive interfaces with **Tailwind CSS**, **Material UI**, and **Ant Design**, integrating skeleton loaders and smooth UI animations[cite: 1].
+**Frontend Developer Intern** | **Synex Digital** *(Nov 2023 – Mar 2024)*
+* Built SEO-friendly e-commerce applications and a **Coaching Center Exam Management System** using **Next.js, React, and Redux**.
+* Crafted responsive interfaces with **Tailwind CSS**, **Material UI**, and **Ant Design**, integrating skeleton loaders and smooth UI animations.
 
 ---
 
 ### 🛠 Tech Stack
 
-* **Languages & Core:** TypeScript, JavaScript (ES6+), HTML5, CSS3, Sass[cite: 1]
-* **Frameworks & Libraries:** React.js, Next.js, Angular, Micro Frontend, Node.js, Express.js[cite: 1]
-* **State, Data & Forms:** Redux Toolkit, Zustand, React Query, React Hook Form, Zod[cite: 1]
-* **UI & Design Systems:** Tailwind CSS, Angular Material / Material UI, Ant Design, Bootstrap, Storybook[cite: 1]
-* **Bundlers & Testing:** Vite, Webpack, Playwright, React Testing Library, Jest[cite: 1]
-* **DevOps & Tools:** Git, Docker, GitHub, GitHub Actions (CI/CD), GitLab, Bitbucket, Jira, Figma[cite: 1]
+* **Languages & Core:** TypeScript, JavaScript (ES6+), HTML5, CSS3, Sass
+* **Frameworks & Libraries:** React.js, Next.js, Angular, Micro Frontend, Node.js, Express.js
+* **State, Data & Forms:** Redux Toolkit, Zustand, React Query, React Hook Form, Zod
+* **UI & Design Systems:** Tailwind CSS, Angular Material / Material UI, Ant Design, Bootstrap, Storybook
+* **Bundlers & Testing:** Vite, Webpack, Playwright, React Testing Library, Jest
+* **DevOps & Tools:** Git, Docker, GitHub, GitHub Actions (CI/CD), GitLab, Bitbucket, Jira, Figma
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,angular,react,nextjs,redux,tailwind,mui,sass,nodejs,express,mongodb,vite,webpack,jest,docker,git,github,gitlab,azure,aws,figma" />
